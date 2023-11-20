@@ -1,6 +1,6 @@
 # Feishu Document Creator
 
-Create Feishu document in one click using native Feishu/Lark URLs.
+Create Feishu/Lark document in one click using native Feishu/Lark URLs.
 
 ## Feishu/Lark URLs:
 
