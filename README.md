@@ -2,6 +2,12 @@
 
 Create Feishu/Lark document in one click using native Feishu/Lark URLs.
 
+## Preview Screenshot
+
+![Feishu Document Creator Preview-1](https://github.com/rokcso/feishu-document-creator/blob/main/metadata/feishu-document-creator-1.png)
+
+![Feishu Document Creator Preview-2](https://github.com/rokcso/feishu-document-creator/blob/main/metadata/feishu-document-creator-2.png)
+
 ## Feishu/Lark URLs:
 
 | App Name | Host | Path | Parameters |
